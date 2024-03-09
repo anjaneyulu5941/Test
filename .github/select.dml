@@ -1,0 +1,1 @@
+update emp1 set sal =50000 where id =3;
